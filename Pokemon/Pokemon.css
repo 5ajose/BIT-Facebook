@@ -1,0 +1,70 @@
+.start{
+    display: flex;
+    margin-bottom: 2px;
+    justify-content: center;
+    cursor: pointer;
+}
+.bar2 button{
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.main {
+    display: flex;
+    justify-content: center;
+}
+
+.pokeball{
+    background-color: #fff;
+    transition: background-color 0.5s;
+}
+
+.pokeball:hover {
+    background-color: red;
+}
+
+.apps{
+    background-color: #fff;
+    transition: background-color 0.5s;
+}
+
+.apps:hover {
+    background-color: orangered;
+}
+
+.juegos{
+    background-color: #fff;
+    transition: background-color 0.5s;
+}
+
+.juegos:hover {
+    background-color: yellow;
+}
+
+.dibujos{
+    background-color: #fff;
+    transition: background-color 0.5s;
+}
+
+.dibujos:hover {
+    background-color: yellow;
+}
+
+.eventos{
+    background-color: #fff;
+    transition: background-color 0.5s;
+}
+
+.eventos:hover {
+    background-color: rgb(57, 236, 213);
+}
+
+.noticias{
+    background-color: #fff;
+    transition: background-color 0.5s;
+}
+
+.noticias:hover {
+    background-color: blue;
+}

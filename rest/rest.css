@@ -1,0 +1,29 @@
+.loog-p {
+    width: 25px;
+    margin-right: 5px;
+}
+
+.container-fluid {
+    background-color: black;
+}
+
+.navbar-brand {
+    font-size: 20px;
+    color: white;
+}
+
+.navbar-brand :hover{
+    background-color: red;
+    transition: background-color 0.5s;
+}
+
+.navbar-nav :hover {
+    background-color: yellow;
+    transition: background-color 0.5s;
+}
+
+.nav-link {
+    font-size: 16px;
+    color: white;
+}
+

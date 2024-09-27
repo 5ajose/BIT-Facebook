@@ -1,0 +1,29 @@
+
+.container-fluid {
+    background-color: black;
+}
+
+.navbar-brand {
+    font-size: 20px;
+    color: white;
+}
+
+.navbar-brand :hover{
+    background-color: red;
+    transition: background-color 0.5s;
+}
+
+.nav-link {
+    font-size: 16px;
+    color: white;
+}
+
+.navbar-nav :hover {
+    background-color: yellow;
+    transition: background-color 0.5s;
+}
+
+
+.mgt {
+    height: 150px;
+}
